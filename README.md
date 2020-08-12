@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hey Everone, Welcome to My Github Account 🦾
+
+
+### Check out my Profile: <a>https://nileshredz.github.io/</a> 💻🌏
+### My Dynamic Visualizations: <a>https://public.tableau.com/profile/nilesh.ohol#!/</a> 📈
+### My Machine Learning articles:<a>https://valueml.com/author/nilesh_ohol/</a> 🧮📝
+
+
 
 <!--
 **nileshredz/nileshredz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

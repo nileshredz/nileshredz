@@ -7,7 +7,7 @@
 ### My Machine Learning articles:<a>https://valueml.com/author/nilesh_ohol/</a> 🧮📝
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-## Wanna reach out?, Here's my Email ID: nilesh_ohol@outlook.com 📫
+## Wanna reach out?, Here's my Email Id: nilesh_ohol@outlook.com 📫
 
 
 

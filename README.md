@@ -1,10 +1,10 @@
 # Hey Everone, Welcome to My Github Account 🦾👨‍💻
 
 
-### Check out my Profile: <a>https://nileshredz.github.io/</a> 💻🌏
-### LinkedIn: <a>https://www.linkedin.com/in/nilesh-ohol/</a> 🤵
-### My Dynamic Visualizations: <a>https://public.tableau.com/profile/nilesh.ohol#!/</a> 📈
-### My Machine Learning articles:<a>https://valueml.com/author/nilesh_ohol/</a> 🧮📝
+### Check out my Profile: <a target="_nilesh">https://nileshredz.github.io/</a> 💻🌏
+### LinkedIn: <a target="_nilesh">https://www.linkedin.com/in/nilesh-ohol/</a> 🤵
+### My Dynamic Visualizations: <a target="_nilesh">https://public.tableau.com/profile/nilesh.ohol#!/</a> 📈
+### My Machine Learning articles:<a target="_nilesh">https://valueml.com/author/nilesh_ohol/</a> 🧮📝
 
 
 

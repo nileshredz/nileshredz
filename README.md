@@ -1,7 +1,7 @@
 # Hey Everone, Welcome to My Github Account 🦾👨‍💻
 
 
-### Check out my Profile: <a>https://nileshredz.github.io/</a> 💻🌏
+### Check out my Profile: <a>http://nileshohol.me/</a> 💻🌏
 ### LinkedIn: <a>https://www.linkedin.com/in/nilesh-ohol/</a> 🤵
 ### My Dynamic Visualizations: <a>https://public.tableau.com/profile/nilesh.ohol#!/</a> 📈
 ### My Machine Learning articles:<a>https://valueml.com/author/nilesh_ohol/</a> 🧮📝

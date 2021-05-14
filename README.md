@@ -1,10 +1,12 @@
 
 <p align="center">
 <img src="Welcome to my github page.gif">
-</p
+</p>
 
-# Hey Everone, Welcome to My Github Account 🦾👨‍💻
+## Hey Everone, Welcome to My Github Account 🦾👨‍💻
 
+<br/><br/>
+![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=nileshredz&show_icons=true&theme=tokyonight)<br/>
 
 ### Check out my Profile: <a>http://nileshohol.me/</a> 💻🌏
 ### LinkedIn: <a>https://www.linkedin.com/in/nilesh-ohol/</a> 🤵

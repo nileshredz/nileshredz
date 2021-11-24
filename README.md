@@ -11,7 +11,7 @@
 
 ![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=nileshredz&show_icons=true&theme=tokyonight)<br/>
 
-### Check out my Profile: <a>http://nileshohol.me/</a> 💻🌏
+### Check out my Profile: <a>https://nileshredz.github.io/</a> 💻🌏
 ### LinkedIn: <a>https://www.linkedin.com/in/nilesh-ohol/</a> 🤵
 ### My Dynamic Visualizations: <a>https://public.tableau.com/profile/nilesh.ohol#!/</a> 📈
 ### My Machine Learning articles:<a>https://valueml.com/author/nilesh_ohol/</a> 🧮📝
